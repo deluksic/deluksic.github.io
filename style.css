@@ -102,7 +102,7 @@ a {
   grid-area: side;
   display: flex;
   flex-direction: column;
-  gap: var(--spacing-3);
+  gap: var(--spacing-2);
   border: 0.1rem solid var(--color-side-border);
   border-radius: 1rem;
   padding: var(--spacing-3);
