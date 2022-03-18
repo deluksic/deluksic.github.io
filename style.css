@@ -113,8 +113,6 @@ a {
   display: flex;
   flex-direction: column;
   gap: var(--spacing-2);
-  /* hard coded value to align with name */
-  padding-top: 1.12rem;
 }
 
 .experience ul {
